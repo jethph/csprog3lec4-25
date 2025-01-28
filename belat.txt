@@ -1,0 +1,29 @@
+
+rstrui - System Restore
+taskmgr - task manager
+sndvol - volume mixer
+slui - Windows activation key
+wfs - Fax and Scan
+shrpubw - sharing of folder
+computerdefaults - set default apps
+recoverydrive - drive recovery
+systemreset - System Reset
+systempropertiesperformance
+lpksetup - Language settings
+ncpa.cpl - Ethernet properties
+mrt - Built-in antivirus
+useraccountcontrolsettings
+control wuaucpl.cpl - Disable windows update(other products)
+hdwwiz - Add new hardware
+control keyboard
+osk - On screen keyboard
+joy.cpl - Game Controller settings
+displayswitch - Display(additional monitors/Projector)
+inetcpl.cpl - internet settings
+%temp% - Temporary files
+psr - steps recorder
+sticky notes - Notepad 
+regedit
+msconfig
+gpedit.msc
+
